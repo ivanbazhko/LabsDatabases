@@ -238,15 +238,6 @@ def upd_data():
         else:
           goodparam = 0
           break
-        
-        
-        
-        
-        
-        
-        
-        
-        
   if goodparam == 1:
     keyscount = 0
     keystuple = ()
